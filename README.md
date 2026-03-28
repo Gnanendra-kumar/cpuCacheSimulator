@@ -1,8 +1,5 @@
 
-*This repository implements the branch predictor project described in [here](https://github.com/prannoy/CSE240A). The starter code, as well as the following description, is originally from the aforementioned repository.* 
-
-
-# CSE240A Cache Simulator Project
+# CPU Cache Simulator Project
 
 ## Table of Contents
   * [Introduction](#introduction)
